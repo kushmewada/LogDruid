@@ -6,7 +6,7 @@ setup(
     description="colored Logs.",
     author="Kush Mewada",
     author_email="kushmewada18@gmail.com",
-    packages=find_packages(),  # Automatically find all packages in the folder
-    install_requires=[],       # List dependencies here, e.g., ["requests", "numpy"]
+    packages=find_packages(),
+    install_requires=[],
     python_requires=">=3.11",
 )
